@@ -7,6 +7,7 @@ public class Main {
        System.out.println((subArray));
        for( int a :subArray){
              System.out.println(a);
+             //hello siddhumamoi
        }
     }
 }
